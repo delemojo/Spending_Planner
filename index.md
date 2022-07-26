@@ -1,6 +1,7 @@
 ## Welcome to Spending Planner
 
-![Dashboard](https://github.com/delemojo/Spending_Planner/blob/gh-pages/ic_launcher-web.png) The easy to use App to plan your expenses and saving-goals.
+![Dashboard](https://github.com/delemojo/Spending_Planner/blob/gh-pages/ic_launcher-web.png)
+The easy to use App to plan your expenses and saving-goals.
 
 ### How to use
 
